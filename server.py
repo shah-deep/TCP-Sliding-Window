@@ -1,6 +1,6 @@
 """
-Deep Shah (SJSU ID: 016662932)
-Athira Kumar (SJSU ID: 016597308)
+Deep Shah
+Athira Kumar
 """
 
 
