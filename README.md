@@ -23,6 +23,6 @@ Code: [Server.py](/server.py)
 
 ## Report
 
- [Project Report (Link)](/CCS%20Project%20Report.pdf) shows screen shots of final output when client tries to send 10,000,000 packets to the server. It also shows plots for sequence numbers received, sequence numbers dropped, change in sender window size, and change in receiver buffer size against time. Data used for these plots is stored in the [Output Folder](\Output%20csv) in csv format.
+ [Project Report (Link)](/CCS%20Project%20Report.pdf) shows screen shots of final output when client tries to send 10,000,000 packets to the server. It also shows plots for sequence numbers received, sequence numbers dropped, change in sender window size, and change in receiver buffer size against time. Data used for these plots is stored in the [Output Folder](/Output%20csv) in csv format.
  
  
